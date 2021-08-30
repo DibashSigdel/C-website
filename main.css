@@ -1,0 +1,11 @@
+h3 {
+  color: green;
+  shape-image-threshold: inherit;
+}
+h2 {
+  color: green;
+}
+p {
+  color: rgb(4, 64, 4);
+  background-color: rgb(213, 208, 208);
+}
